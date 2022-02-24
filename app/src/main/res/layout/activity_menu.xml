@@ -49,7 +49,7 @@
 
         <Button
             android:id="@+id/button_hot_drinks"
-            android:text="@string/cold_drinks"
+            android:text="@string/hot_drinks"
             android:textColor="@color/dusty_white"
             android:background="@drawable/second_gradient"
             android:paddingHorizontal="20dp"
